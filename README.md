@@ -1,14 +1,4 @@
 <div align="center">
-  <br />
-    <img src="public/readme/hero.png" alt="Project Banner">
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
-    <img src="https://img.shields.io/badge/-Vapi-black?style=for-the-badge&logoColor=white&logo=vapi.com&color=green" alt="vapi" />
-    <img src="https://img.shields.io/badge/-Tailwind-00BCFF?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
-
   <h3 align="center">SaaS LMS Application – Built with Next.js, Supabase & Stripe</h3>
   <div align="center">
     A modern Learning Management SaaS platform with authentication, subscriptions, AI voice agents, and more.
