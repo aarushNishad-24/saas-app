@@ -114,16 +114,3 @@ npm run dev
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 🔗 Assets
-
-Assets and design resources are located in the `public/readme` directory.
-
-<img src="public/readme/videokit.jpg" alt="Assets Banner">
-
-## 🚀 More
-
-Want to contribute or suggest features? Open an issue or submit a pull request!
-
----
-
-**Enjoy building and learning with this SaaS LMS
